@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+* 🔭 I’m currently working on getting as many cybersecurity certificates as possible.
+
 <!--
 **marufrahmangit/marufrahmangit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
