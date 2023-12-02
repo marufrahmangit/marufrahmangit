@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-⚡ Like casually poking around with problem-solving:
+⚡ Casually poking around with problem-solving:
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/marufrahman_leetcode)
