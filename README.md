@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-* 🔭 I’m currently working on getting as many cybersecurity certificates as possible.
+🔭 I’m currently working on getting as many cybersecurity certificates as possible.
 
 <!--
 **marufrahmangit/marufrahmangit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+⚡ Like casually poking around with problem-solving:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/marufrahman_leetcode)
