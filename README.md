@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on getting as many cybersecurity certificates as possible.
+🔭 I’m currently working on cybersecurity projects and getting professional certificates.
 
 <!--
 **marufrahmangit/marufrahmangit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
