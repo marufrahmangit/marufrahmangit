@@ -5,7 +5,7 @@
 
 💻 I am a Programmer, Technical Writer, and an aspiring Cybersecurity Professional with 7+ years of experience in the IT industry working with multiple technologies and tools. 
 
-🌱 I’m currently building a [Cybersecurity Portfolio](https://github.com/marufrahmangit/cybersecurity-portfolio) which includes tools and tech such as Linux, Python, and SQL and conducting security audits.
+🌱 I’m currently building a Cybersecurity Portfolio that includes learning and using tools and techs such as Linux, Python, SQL, Suricata, Chronicle, and Splunk, risk management and cybersecurity frameworks such as NIST, and conducting enterprise-wide security audits based on provided scenarios.
 
 ⚡ I am also casually poking around with problem-solving:
 
