@@ -1,20 +1,10 @@
 ### Hi there 👋
+👀 Thank you for coming to my space.
 
-<!--
-**marufrahmangit/marufrahmangit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Maruf Rahman- Programmer, Technical Writer, and an aspiring Cybersecurity Professional with 7+ years of experience in the IT industry working with multiple technologies and tools.
 
-Here are some ideas to get you started:
+🌱 I’m currently working on learning/building a [Cybersecurity Portfolio](https://github.com/marufrahmangit/cybersecurity-portfolio) with hands-on skills including but not limited to Linux, Python, and SQL.
 
-- 🔭 I’m currently working on getting as many cybersecurity certificates as possible.
-- 🌱 I’m currently learning react js.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-⚡ I am casually poking around with problem-solving:
+⚡ I am also casually poking around with problem-solving:
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/marufrahman_leetcode)
