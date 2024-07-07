@@ -4,7 +4,7 @@
     <p>
         <a href="https://github.com/marufrahmangit">
             <img src="https://img.shields.io/github/followers/marufrahmangit?label=follow&amp;style=social"
-                alt="GitHub MarufRahman" />
+                alt="GitHub Maruf Rahman" />
         </a>
         <a href="https://github.com/marufrahmangit">
             <img src="https://komarev.com/ghpvc/?username=marufrahmangit">
@@ -16,7 +16,7 @@
         <a href="mailto:marufrahman.work@gmail.com">
             <img src="https://img.shields.io/badge/%marufrahman.work@gmail.com-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff">
         </a>
-        <a href="https://youtube.com/c/NumanIbnMazid">
+        <a href="https://youtube.com/@marufrahmandigital">
             <img src="https://img.shields.io/badge/-Marufrahman-ff0000?style=flat-square&amp;logo=Youtube&amp;logoColor=white&amp;link=https://www.youtube.com/@marufrahmandigital"
                 alt="YouTube: Maruf Rahman" />
         </a>
