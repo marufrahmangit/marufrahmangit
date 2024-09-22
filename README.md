@@ -3,7 +3,7 @@
 
 👀 Thank you for coming to my space.
 
-💻 I am an *aspiring Cybersecurity Professional* with 7️+ years of experience in the IT industry working with various tools and technologies as a Programmer, Technical Writer, and a Project Manager.
+💻 I am an *MIS Professional* with 7️+ years of experience in the IT industry working with various tools and technologies as a Programmer, Technical Writer, and a Project Manager.
 
 🌱 I’m currently building a Cybersecurity Portfolio that includes hands-on learning with Linux, Python, SQL, Splunk, Wireshark, and Metasploit, risk management and cybersecurity frameworks such as NIST, and conducting enterprise-wide security audits based on provided scenarios.
 
