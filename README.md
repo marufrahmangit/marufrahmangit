@@ -3,10 +3,15 @@
 
 👀 Thank you for coming to my space.
 
-💻 I am an IT Professional with more than half a decade of experience in the IT industry working with various tools and technologies as a Programmer, Technical Writer, and a Project Manager.
+💻 IT Professional
+With seven years in the IT industry, I bring a well-rounded skill set across various tools and technologies. My roles have spanned Programmer, Technical Writer, and Project Manager, allowing me to understand and contribute effectively across development, documentation, and project oversight.
 
-🌱 I’m currently building a Cybersecurity Portfolio that includes hands-on learning with Linux, Python, SQL, Splunk, Wireshark, and Metasploit, risk management and cybersecurity frameworks such as NIST, and conducting enterprise-wide security audits based on provided scenarios.
+🌱 Cybersecurity Portfolio in Progress
+I am currently building a comprehensive Cybersecurity Portfolio with hands-on projects:
+- Technical Skills: Linux, Python, SQL, Splunk, Wireshark, Metasploit, Burp Suite
+- Frameworks & Methodologies: NIST, risk management, and conducting enterprise security audits based on realistic scenarios.
 
-⚡ I am also super casually poking around with problem-solving...
+⚡ Exploring Problem-Solving
+I’m also exploring problem-solving casually, refining my skills and discovering new ways to tackle challenges in tech.
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/marufrahman_leetcode)
