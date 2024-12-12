@@ -3,9 +3,7 @@
 
 👀 Thank you for coming to my space.
 
-💻 IT Professional
-
-With seven years in the IT industry, I bring a well-rounded skill set across various tools and technologies. My roles have spanned Programmer, Technical Writer, and Project Manager, allowing me to understand and contribute effectively across development, documentation, and project oversight.
+💻 I bring a versatile IT background with expertise in Programming, Technical Documentation, Cyber Threat Analysis, Penetration Testing, Data Analysis, and Project Management. With a foundation in technical writing, software development, and leadership, I’m now focused on advancing into cybersecurity, specialising in threat analysis and security documentation.
 
 🌱 Building a CyberSec. Portfolio
 
