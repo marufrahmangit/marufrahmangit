@@ -7,5 +7,5 @@
 
 🌱 Building a CyberSec. Portfolio
 
-- Technical Skills: Linux, Python, SQL, AWS IAM, Azure AD, Splunk, Wireshark, Metasploit, Burp Suite, GoBuster, Wappalyzer, Zimmerman Tools.
-- Frameworks & Methodologies: NIST, SOC, ISO 27001, COBIT, PCI DSS, and Risk Management.
+- **Technical Skills**: Linux, Python, SQL, AWS IAM, Azure AD, Splunk, Wireshark, Metasploit, Burp Suite, GoBuster, Wappalyzer, Zimmerman Tools.
+- **Frameworks & Methodologies**: NIST, SOC, ISO 27001, COBIT, PCI DSS, and Risk Management.
