@@ -1,15 +1,9 @@
 # Maruf Rahman
 **Product & Systems Leader | Cybersecurity & IT Operations | Building secure, scalable, high-impact systems**
 
-<a href="https://marufrahman.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Website-marufrahman.dev-blue" alt="Website"/>
-</a>
-<a href="https://linkedin.com/in/marufrahmanpro" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-marufrahmanpro-blue?logo=linkedin" alt="LinkedIn"/>
-</a>
-<a href="mailto:mail@marufrahman.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Email-mail@marufrahman.dev-blue" alt="Email"/>
-</a>
+[![Website](https://img.shields.io/badge/Website-marufrahman.dev-blue)](https://marufrahman.dev) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-marufrahmanpro-blue?logo=linkedin)](https://linkedin.com/in/marufrahmanpro) 
+[![Email](https://img.shields.io/badge/Email-mail@marufrahman.dev-blue)](mailto:mail@marufrahman.dev)
 
 ---
 
