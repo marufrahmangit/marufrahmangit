@@ -1,5 +1,5 @@
 # Maruf Rahman
-**Product & Systems Leader | Cybersecurity & IT Operations | Building secure, scalable, high-impact systems**
+**Product & Systems Leader | Secure IT Operations | Building secure, scalable, high-impact systems**
 
 [![Website](https://img.shields.io/badge/Website-marufrahman.dev-blue)](https://marufrahman.dev) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-marufrahmanpro-blue?logo=linkedin)](https://linkedin.com/in/marufrahmanpro) 
