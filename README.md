@@ -1,44 +1,65 @@
 # Maruf Rahman
-**Product & Systems Leader | Secure IT Operations | Building secure, scalable, high-impact systems**
+**Forward Deployed Engineer | AI Automation, Integrations & Production Systems**
 
-[![Website](https://img.shields.io/badge/Website-marufrahman.dev-blue)](https://marufrahman.dev) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-marufrahmanpro-blue?logo=linkedin)](https://linkedin.com/in/marufrahmanpro) 
-[![Email](https://img.shields.io/badge/Email-mail@marufrahman.dev-blue)](mailto:mail@marufrahman.dev)
+[![Website](https://img.shields.io/badge/Website-marufrahman.dev-blue)](https://marufrahman.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-marufrahmanpro-blue?logo=linkedin)](https://linkedin.com/in/marufrahmanpro)
+[![Email](https://img.shields.io/badge/Email-marufrahman.work%40gmail.com-blue)](mailto:marufrahman.work@gmail.com)
 
 ---
 
 ## About Me
-I define and deliver high-impact solutions by connecting business goals, user workflows, and engineering realities. With hands-on technical experience and cross-functional leadership, I guide teams through ambiguity to ship reliable, scalable, and user-centered outcomes.
+I build AI-assisted software, automation workflows, and integrations that solve real operational problems.
 
-Over the past 9+ years, I’ve progressed from software engineer to senior system analyst and product leader, delivering solutions that balance user needs, business priorities, and technical feasibility. I partner with cross-functional teams to define problems, scope features, and ensure reliable execution in complex environments.
+My background spans software engineering, systems analysis, and production delivery across regulated healthcare SaaS, enterprise systems, and hands-on business operations through my own eCommerce platform. I work well in environments where requirements are ambiguous, systems need to integrate cleanly, and the solution has to function reliably beyond a demo.
 
----
-
-## Professional Highlights
-- 9+ years experience across software engineering, product management, and systems leadership  
-- Led 15+ people across cross-functional teams  
-- Delivered 100% of regulated healthcare SaaS releases on time  
-- Mentored engineers and technical writers to improve workflows and skills  
-- Experienced in both enterprise systems and cybersecurity domains  
+I’m particularly interested in forward-deployed engineering, AI automation, implementation-heavy product work, and AI-assisted software delivery.
 
 ---
 
-## Core Competencies
+## What I Work On
+- AI-assisted workflows and operational automation
+- API integrations, webhooks, and event-driven systems
+- Backend workflows using Python, FastAPI, and structured validation
+- Business systems that connect real operations to usable software
+- Production-minded implementations with attention to reliability, edge cases, and rollout realities
 
-**Product & Systems Leadership:**  
-Problem Ownership, Product Judgment, Cross-functional Leadership, Outcome Evaluation  
+---
 
-**Technical Expertise:**  
-Systems Analysis, Security & Threat Modeling, Infrastructure & DevOps, CI/CD, Enterprise Architecture  
+## Selected Areas of Experience
+- Regulated healthcare SaaS release and systems delivery
+- Workflow investigation, issue isolation, and production risk reduction
+- eCommerce platform operations, integrations, and automation
+- CRM sync, structured data capture, and operational reporting
+- Enterprise software customization and internal tooling
 
-**Tools & Languages:**  
-Python, JavaScript/TypeScript, C#, SQL, Docker, Kubernetes, AWS, Linux, Terraform  
+---
+
+## Tools & Technologies
+**Languages / Backend**  
+Python, SQL, JavaScript/TypeScript, FastAPI
+
+**Automation / Integrations**  
+REST APIs, Webhooks, Event-driven workflows, Data validation, CRM sync
+
+**Platforms / Systems**  
+WooCommerce, WordPress, Linux environments, Production support workflows
+
+**Working Style**  
+AI-assisted development, rapid prototyping, operational automation, and release coordination
+
+---
+
+## Current Focus
+I’m building toward roles such as:
+- Forward Deployed Engineer
+- AI Automation Engineer / Specialist
+- Solutions Engineer
+- Implementation Engineer
+- AI-Assisted Developer
 
 ---
 
 ## Get in Touch
-Open to senior system, product, and technical leadership opportunities globally.  
-
-📧 Email: [mail@marufrahman.dev](mailto:mail@marufrahman.dev)  
+📧 Email: [marufrahman.work@gmail.com](mailto:marufrahman.work@gmail.com)  
 🌐 Website: [marufrahman.dev](https://marufrahman.dev)  
 💼 LinkedIn: [linkedin.com/in/marufrahmanpro](https://linkedin.com/in/marufrahmanpro)
