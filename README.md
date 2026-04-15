@@ -1,5 +1,5 @@
 # Maruf Rahman
-**Forward Deployed Engineer | AI Automation, Integrations & Production Systems**
+**Forward Deployed Engineer | AI Automation, Integrations, Production Systems & Data Analytics**
 
 [![Website](https://img.shields.io/badge/Website-marufrahman.dev-blue)](https://marufrahman.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-marufrahmanpro-blue?logo=linkedin)](https://linkedin.com/in/marufrahmanpro)
