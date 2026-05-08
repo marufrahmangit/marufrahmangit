@@ -8,5 +8,4 @@
 
 ## Get in Touch
 📧 Email: [marufrahman.work@gmail.com](mailto:marufrahman.work@gmail.com)  
-🌐 Website: [marufrahman.dev](https://marufrahman.dev)  
 💼 LinkedIn: [linkedin.com/in/marufrahmanpro](https://linkedin.com/in/marufrahmanpro)
