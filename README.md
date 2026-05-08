@@ -2,7 +2,7 @@
 **Software Programmer & AI Solution Engineer | System, Data, and Security Analytics | Technical Team and Project Leadership**
 
 [![Website](https://img.shields.io/badge/Website-marufrahman.dev-blue)](https://marufrahman.dev)
-[![Security & Compliance](https://img.shields.io/badge/Website-sec.marufrahman.dev-blue)](https://sec.marufrahman.dev/category/security-research-and-audit/)
+[![Security & Compliance](https://img.shields.io/badge/Portfolio-sec.marufrahman.dev-blue)](https://sec.marufrahman.dev/category/security-research-and-audit/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-marufrahmanpro-blue?logo=linkedin)](https://linkedin.com/in/marufrahmanpro)
 [![Email](https://img.shields.io/badge/Email-marufrahman.work%40gmail.com-blue)](mailto:marufrahman.work@gmail.com)
 
