@@ -1,5 +1,5 @@
 # Maruf Rahman
-**Software Programmer & AI Solution Engineer | System, Data, and Security Analytics | Technical Team and Project Leadership**
+**Solution Engineer (Software and AI) | System, Data, and Security Analytics | Technical Team and Project Leadership**
 
 [![Website](https://img.shields.io/badge/Website-marufrahman.dev-blue)](https://marufrahman.dev)
 [![Security & Compliance](https://img.shields.io/badge/Portfolio-sec.marufrahman.dev-blue)](https://sec.marufrahman.dev/)
