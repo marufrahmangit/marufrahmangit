@@ -1,5 +1,5 @@
 # Maruf Rahman
-**Solution Engineer (Software and AI) | System, Data, and Security Analytics | Technical Team and Project Leadership**
+**Solutions & Implementation Engineer | APIs · Webhooks · System Integration · AI Automation | 8+ yrs building & shipping in regulated SaaS**
 
 [![Website](https://img.shields.io/badge/Website-marufrahman.dev-blue)](https://marufrahman.dev)
 [![Security & Compliance](https://img.shields.io/badge/Portfolio-sec.marufrahman.dev-blue)](https://sec.marufrahman.dev/)
